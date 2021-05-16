@@ -1,3 +1,10 @@
+# Weather App
+A weather app created with Raect that shows the current weather via the Open Weather Map api.
+
+Please create an OpenWeather account to get your own api key should you wish to fork this repo.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
