@@ -3,7 +3,8 @@ A weather app created with Raect that shows the current weather via the Open Wea
 
 Please create an OpenWeather account to get your own api key should you wish to fork this repo.
 
-
+<img src = "./durbanWeather.jpg">
+<img src = "./stellies.jpg">
 
 # Getting Started with Create React App
 
